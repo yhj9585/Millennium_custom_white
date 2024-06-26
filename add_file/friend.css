@@ -1,0 +1,72 @@
+
+//
+.friendListHeaderContainer {
+	background-color: #ffffff;
+
+//
+.quickAccessFriendsMessage {
+	color: rgb(0 217 255);
+//
+.TabSearchButton .ColorSelector {
+	fill: #242a2c;
+
+//
+.friendSearchInput[type="text"] {
+	box-shadow: inset 0px 0px 3px 0px #00000075;
+	background-color: #ffffff;
+
+//
+.friendlistListContainer {
+	background: #ffffff;
+
+//
+.friendGroup.gameGroup .groupName {
+    color: #343a3a !important;
+//
+.friendGroup .groupName hr {
+	border-color: rgb(114 114 114 / 36%);
+
+//
+.ingame .r62qzcdJQ0qezZglOtiUX {
+    color: #77d00d;
+}
+
+//
+._1p_QrI3ixF-RAwnxad9pEm {
+    border: none;
+}
+
+//
+.FriendsListContent .friendlistListContainer .friendGroup.onlineFriends .groupName {
+    color: #363a39 !important;
+}
+
+//
+.friendGroup.onlineFriends .groupName .groupCount, .friendGroup .groupName .groupCount.collapsed {
+	color: rgb(109 207 246) !important;
+}
+
+//
+.awayOrSnooze ._1k82NiWym4STegDGxRBHz2 {
+	opacity: .100 !important;
+}
+
+.friendsListSectionTitle {
+    background-color: #ffffff;
+
+
+.ToggleGroupChatList .SVGIcon_DoubleArrow polyline {
+    stroke: #313131 !important;
+}
+
+.friendsListSectionTitle.chatSectionTitle .groupChatSectionTitle {
+	color: #727272;
+}
+
+.friendListFooter {
+	background-color: #ffffff;
+}
+
+.FriendsListContent .friendlistListContainer .friendGroup.offlineFriends .groupName {
+    color: #363a39 !important;
+}
