@@ -1,0 +1,25 @@
+{
+  "Steam-WebKit": "webkit.css",
+  "UseDefaultPatches": true,
+
+  "author": "AngryBired",
+  "description": "White Ver of Dark minimalist skin for Steam",
+  "name": "Minimal White for Steam",
+  "version": "0.1.0",
+
+  "github": {
+    "owner": "AngryBired",
+    "repo_name": "Minimal-Dark-for-Steam"
+  },
+  "discord_support": {
+    "inviteCodeExcludingLink": "uwvCkSnvYY"
+  },
+  "tags": [
+    "Minimal",
+    "White",
+    "Color",
+    "Customizable"
+  ],
+  "header_image": "https://i.imgur.com/3mPRQUz.png",
+  "splash_image": "https://i.imgur.com/3mPRQUz.png"
+}
